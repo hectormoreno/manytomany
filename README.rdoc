@@ -1,4 +1,4 @@
-== README
+README
 Este es un ejemplo de como clonar , modificar y subir un proyecto con GIyt
 
 Is this the real life? 
