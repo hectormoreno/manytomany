@@ -1,0 +1,2 @@
+== README
+Este es un ejemplo de como clonar , modificar y subir un proyecto con GIT
